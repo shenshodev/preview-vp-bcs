@@ -349,7 +349,7 @@ h1, h2, h3, h4 {
 .acercade p {
   font-size: 1.125em;
   padding-bottom: 0.9375em;
-  width: 70%;
+  width: min(100%, 62.5rem);
   margin-inline: auto;
 }
 
